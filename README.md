@@ -1,7 +1,7 @@
 <div class = "repo" align = "center">
  
-<a href = "#">
-<img src = "https://i.ibb.co/NdvJJMC8/586.jpg"  width="640" height="309">
+<a href = "https://wa.me/+94783640394?text=Hi_CRAWL">
+<img src = "https://i.ibb.co/bgkmTFkp/9377.jpg"  width="400" height="300">
 </img>
  
 ---
@@ -9,12 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;𝙲𝚁𝙰𝚆𝙻+𝙼𝙳+𝙱𝙾𝚃;Thanks+for+visiting!"/>
 </a>
 
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
-</p>
 
 ---
 
@@ -24,11 +18,6 @@
 
 ---
 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
-
-<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
@@ -36,21 +25,21 @@
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN-ANJU_XPRO?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN-ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN-ANJU_XPRO?style=flat-square&color=darkred"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+!<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+CRAWL MD is a whatsapp bot created by Gaming rash ( CRAWL ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
+And Subscribe GAMING RASH and give one star for crawl md.
 </br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For CRAWL MD and [Follow Me](https://github.com/Niroshan112) 
 
-## How create queen Anju.
+## How create CRAWL MD.
 
 **. Deploy steps.*
- - 1._Fork queen Anju repository._
+ - 1._Fork CRAWL MD repository._
     <br>
-    <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Niroshan112/CRAWL-MD-V1/fork"><img title="CRAWL-MD-V1" src="https://img.shields.io/badge/FORK CRAWL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp*
 
